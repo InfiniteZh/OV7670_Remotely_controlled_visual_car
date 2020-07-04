@@ -1,0 +1,17 @@
+/**index.wxss**/
+.btns {
+  margin-top: 40rpx;
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  width: 80%;
+}
+.btn1 {
+  margin-top: 40rpx;
+  width: 20%;
+}
+.btn2 {
+  margin-top: 40rpx;
+  width: 20%;
+  background-color: green;
+}

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\bin\Debug\jpegTCP.exe.config
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\bin\Debug\jpegTCP.exe
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\bin\Debug\jpegTCP.pdb
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\obj\Debug\jpegTCP.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\obj\Debug\jpegTCP.MainWindow.resources
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\obj\Debug\jpegTCP.Properties.Resources.resources
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\obj\Debug\jpegTCP.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\obj\Debug\jpegTCP.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\obj\Debug\jpegTCP.exe
+C:\Users\lenovo\Desktop\短学期\jpegTcp\jpegTCP\jpegTCP\obj\Debug\jpegTCP.pdb

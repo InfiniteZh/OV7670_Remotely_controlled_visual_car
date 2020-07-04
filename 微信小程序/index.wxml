@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="image">
+        <image style="width: 200px; height: 200px; background-color: #eeeeee;" mode="{{item.mode}}" src="{{imgSrc}}"></image>
+      </view>
+    <button class='btn1' bindtap="sendCmd" data-index="1">前进</button>
+    <view class='btns'>
+      <button bindtap="sendCmd" data-index="2">向左</button>
+      <!-- <button bindtap="sendCmd" data-index="4">停止</button> -->
+      <button bindtap="sendCmd" data-index="3">向右</button>
+    </view>
+    <button class='btn2' bindtap="sendCmd" data-index="4">停止</button>
+
+</view>
